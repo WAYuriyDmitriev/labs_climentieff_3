@@ -1,0 +1,1 @@
+/bin/g++  -g   CMakeFiles/climentieff_3_2.dir/main.cpp.o  -o climentieff_3_2 
